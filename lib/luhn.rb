@@ -14,6 +14,3 @@ module Luhn
     return check.modulo(10) == 0
   end
 end
-
-
-=
